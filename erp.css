@@ -1,0 +1,18 @@
+﻿
+.erp{
+display:inline-block;
+width:100%;
+height:100%;
+	background-image:url('../images/Shoppers/img/portfolio/05-full.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	font-size:5em;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000066;
+	text-align:center;
+	padding-top:2em;
+	
+}
+body{
+	background-color:#000000;
+}
